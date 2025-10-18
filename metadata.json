@@ -1,0 +1,7 @@
+{
+  "name": "Jarvis",
+  "description": "A versatile, voice-controlled AI assistant. Jarvis can answer questions, provide explanations on complex topics, engage in conversation, and assist with technical tasks like generating Excel formulas.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
